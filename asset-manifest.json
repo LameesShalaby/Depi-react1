@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Depi-react1/static/css/main.9eb3a991.css",
+    "main.js": "/Depi-react1/static/js/main.fa21ab59.js",
+    "index.html": "/Depi-react1/index.html",
+    "main.9eb3a991.css.map": "/Depi-react1/static/css/main.9eb3a991.css.map",
+    "main.fa21ab59.js.map": "/Depi-react1/static/js/main.fa21ab59.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9eb3a991.css",
+    "static/js/main.fa21ab59.js"
+  ]
+}
